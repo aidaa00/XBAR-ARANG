@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # X BAR — Indonesian Premium Charcoal & Firewood Supplier Website
 
 Aplikasi web profil perusahaan dan katalog ekspor produk arang & kayu bakar (X BAR) lengkap dengan panel administrasi dinamis, database MySQL, dan operasi CRUD penuh, didesain persis berdasarkan file desain `output.pdf`.
@@ -73,3 +74,6 @@ Untuk mengakses Panel Admin:
 - **Live Search**: Pencarian produk secara instan di sisi pengguna publik maupun di dashboard admin.
 - **Responsive Layout**: Menyesuaikan tampilan desktop, tablet, maupun mobile smartphone.
 - **Security & Validation**: Prepared statement PDO untuk mencegah SQL Injection, session auth check middleware, password hashing bcrypt, sanitasi XSS (`htmlspecialchars`).
+=======
+# XBAR-ARANG
+>>>>>>> 4ba1da8bc321b685d65037ff7537e2c924779fcc
